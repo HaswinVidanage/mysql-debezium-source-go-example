@@ -1,0 +1,4 @@
+# InteliJ files
+.idea
+.idea/workspace.xml
+.env
